@@ -1,0 +1,4 @@
+1 -3 xor
+2 -5 product
+-5 -1 compare
+0 1 xor

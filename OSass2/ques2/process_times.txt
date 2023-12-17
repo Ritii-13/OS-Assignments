@@ -1,0 +1,3 @@
+Total time for process 1: 6638055 ms
+Total time for process 2: 6640001 ms
+Total time for process 3: 6636029 ms

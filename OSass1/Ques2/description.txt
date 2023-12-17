@@ -1,0 +1,5 @@
+In question 2 for implementing the word command, we wrote a C code for word count analysis and comparison between text files. It can count words in a file and compare word counts between two files.
+
+For implementing the dir command, we wrote a C program that creates, removes, and navigates directories. It offers customization through flags and provides verbose output. The child process handles directory operations while the parent process waits.
+
+For implementing the date command, we wrote a C program that displays the last modified time of a file in different formats. Users can choose to view the time in standard format, RFC 5322 format, or a custom time format by providing appropriate flags and arguments. The program uses system calls to retrieve file information and time data, providing flexible time information retrieval for files.
